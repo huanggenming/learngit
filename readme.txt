@@ -3,3 +3,4 @@ Git is free software.
 Creating a new branch is quick.
 Learn git today first.
 Wrote a message agin.
+写入一个中文试试.
